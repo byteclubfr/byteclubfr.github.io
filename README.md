@@ -1,2 +1,3 @@
 # lmtm.github.io
-LMTM GitHub Homepage
+
+<a href="http://lmtm.github.io">LMTM GitHub Homepage</a>
